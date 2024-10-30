@@ -1,0 +1,130 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:2:5-33:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.6.0] C:\Users\solom\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] C:\Users\solom\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] C:\Users\solom\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+manifest
+ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+MERGED from [:path_provider_android] C:\Users\solom\flutter project\weather\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\5cd2190e113a56aefec1d80fab02f3f0\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\e260dd73a532724c9cd5319f9369dca3\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\516ffcb0dd71805963a0a84f41a3ba6f\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\ccd025aeac9deec9d52275a4db85c57b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\f5b4ada98cb5b95cc462024c7f8d2c26\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] C:\Users\solom\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\8147a8ad516fc3dbf8de120f63ab0e41\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\d8d83151902a85e10a03dc856e1989f5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\2908450e7859368fb5972c54f01b3fc8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\3c0a72ffc840bb4aac453d2aadffec2c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\0fe04248978f7b4ff2eaa07c947f22ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\5b2db1a12de82597f12526680385f5d8\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\5c2887e3189746b19aaa720f21a8aa90\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\117f501c94353589369c11d01bb1a5f6\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:1-45:12
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:1:11-69
+queries
+ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:39:5-44:15
+intent#action:name:android.intent.action.PROCESS_TEXT+data:mimeType:text/plain
+ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:40:9-43:18
+action#android.intent.action.PROCESS_TEXT
+ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:41:21-70
+data
+ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:42:13-50
+	android:mimeType
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml:42:19-48
+uses-sdk
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+MERGED from [:path_provider_android] C:\Users\solom\flutter project\weather\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\solom\flutter project\weather\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\7a4c478e92ffaa079db3a76fefe94a9e\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\5cd2190e113a56aefec1d80fab02f3f0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\5cd2190e113a56aefec1d80fab02f3f0\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\e260dd73a532724c9cd5319f9369dca3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\e260dd73a532724c9cd5319f9369dca3\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\516ffcb0dd71805963a0a84f41a3ba6f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\516ffcb0dd71805963a0a84f41a3ba6f\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\ccd025aeac9deec9d52275a4db85c57b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\ccd025aeac9deec9d52275a4db85c57b\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\f5b4ada98cb5b95cc462024c7f8d2c26\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\f5b4ada98cb5b95cc462024c7f8d2c26\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] C:\Users\solom\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] C:\Users\solom\.gradle\caches\8.9\transforms\ea45884552b5a424ad44a379b44db8a8\transformed\core-1.6.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\8147a8ad516fc3dbf8de120f63ab0e41\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\solom\.gradle\caches\8.9\transforms\8147a8ad516fc3dbf8de120f63ab0e41\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\d8d83151902a85e10a03dc856e1989f5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\d8d83151902a85e10a03dc856e1989f5\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\2908450e7859368fb5972c54f01b3fc8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\2908450e7859368fb5972c54f01b3fc8\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\3c0a72ffc840bb4aac453d2aadffec2c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\3c0a72ffc840bb4aac453d2aadffec2c\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\0fe04248978f7b4ff2eaa07c947f22ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\0fe04248978f7b4ff2eaa07c947f22ba\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\5b2db1a12de82597f12526680385f5d8\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\solom\.gradle\caches\8.9\transforms\5b2db1a12de82597f12526680385f5d8\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\solom\.gradle\caches\8.9\transforms\58efb580a68dcc1eebd4ef76b3567d0a\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\5c2887e3189746b19aaa720f21a8aa90\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\5c2887e3189746b19aaa720f21a8aa90\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\117f501c94353589369c11d01bb1a5f6\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\solom\.gradle\caches\8.9\transforms\117f501c94353589369c11d01bb1a5f6\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\solom\flutter project\weather\android\app\src\debug\AndroidManifest.xml:6:22-64
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\solom\.gradle\caches\8.9\transforms\49c4e4fd65bb96f48f20248a6d93f966\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
